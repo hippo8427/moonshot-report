@@ -324,11 +324,6 @@ taskFiles: attachments !== undefined
 
 <br><br>
 
-## 코드 품질 및 최적화
-
-
-<br><br>
-
 ## 향후 개선 사항
 
 1. Prisma 자동 생성 타입 활용
