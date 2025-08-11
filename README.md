@@ -330,7 +330,7 @@ taskFiles: attachments !== undefined
 #### 문제점
 1. API 명세서에는 description 필드가 없었으나, 프론트엔드 예시에서는 할일 상세 페이지에 내용을 표시하고 있었음.
 
-### 해결 방법
+#### 해결 방법
 
 1. description 필드 추가
  
