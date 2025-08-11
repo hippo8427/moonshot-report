@@ -321,7 +321,9 @@ taskFiles: attachments !== undefined
 
 ```
 
-### description 필드 추가
+<br>
+
+### description 필드 없음
 
 #### 문제점
 1. API 명세서에는 description 필드가 없었으나, 프론트엔드 예시에서는 할일 상세 페이지에 내용을 표시하고 있었음.
