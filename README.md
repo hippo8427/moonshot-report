@@ -6,6 +6,7 @@
 
 **저장소** : [nb02-moonshot-team2](https://github.com/nb02-moonshot-team2/nb02-moonshot-backend)
 
+**팀 위키** : [개발 규칙](https://github.com/nb02-moonshot-team2/nb02-moonshot-backend/wiki)
 
 
 
