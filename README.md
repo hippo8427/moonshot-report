@@ -8,6 +8,8 @@
 
 **저장소** : [nb02-moonshot-team2](https://github.com/nb02-moonshot-team2/nb02-moonshot-backend)
 
+**Swagger**: [https://nb02-moonshot.onrender.com/api-docs/](https://nb02-moonshot.onrender.com/api-docs/)
+
 **팀 위키** : [개발 규칙](https://github.com/nb02-moonshot-team2/nb02-moonshot-backend/wiki)
 
 
