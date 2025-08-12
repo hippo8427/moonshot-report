@@ -4,7 +4,7 @@
 
 **프로젝트명**: Moonshot  
 
-**배포주소**:[https://nb-02-moon-shot-fe.vercel.app/login](https://nb-02-moon-shot-fe.vercel.app/login)
+**배포주소**: [https://nb-02-moon-shot-fe.vercel.app/login](https://nb-02-moon-shot-fe.vercel.app/login)
 
 **저장소** : [nb02-moonshot-team2](https://github.com/nb02-moonshot-team2/nb02-moonshot-backend)
 
